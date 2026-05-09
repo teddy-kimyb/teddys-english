@@ -1,0 +1,129 @@
+excelled, 뛰어났다
+yearned, 간절히 바랐다
+sickly, 병약한
+surface tension, 표면 장력
+device, 장치 기구
+impressed, 감명받은
+honorary doctorate, 명예 박사 학위
+theologian, 신학자
+abandoned, 포기했다
+interrupted, 중단되었다
+physiology, 생리학
+acclaimed, 호평받는
+professorship, 교수직
+retirement, 은퇴
+instinctively, 본능적으로
+intuitive, 직관적인
+emotional contagion, 감정 전염
+epidemic, 전염병 유행
+varying, 다양한
+instantly, 즉각적으로
+depth-perception, 거리 감각
+dense, 빽빽한 울창한
+accompanied, 동행했다
+herd, 무리
+estimating, 추정하는
+horizon, 지평선
+conceptual change, 개념적 변화
+overwritten, 덮어쓰여진 대체된
+inhibitory control, 억제적 통제
+suppress, 억누르다 억제하다
+naive, 순진한 단순한
+deliberate, 의도적인 신중한
+retrieved, 되살려진 불러온
+perceptual, 지각적인
+symbolism, 상징주의
+nonverbal, 비언어적인
+psychotherapy, 심리 치료
+interpretation, 해석
+energize, 활력을 주다
+incorporates, 통합하다 포함하다
+narratives, 서사 이야기
+geospatial, 지리 공간 정보의
+overlaying, 겹쳐 분석하는
+algorithmically, 알고리즘적으로
+spatial turn, 공간적 전환
+ethical particularism, 윤리적 특수주의
+universal, 보편적인
+circumstance, 상황 환경
+axe-wielding, 도끼를 든
+villain, 악당
+flexible, 유연한
+engagement, 참여 관여
+nuances, 미묘한 차이
+generalized, 일반화된
+impatience, 조급함
+overestimate, 과대평가하다
+underestimate, 과소평가하다
+assets, 자산
+consumables, 소모품
+financial risk, 재무적 위험
+acquisition, 취득 구입
+disposal, 처분
+reliever, 완화 수단
+arsenal, 무기고 수단
+guarantee, 보장 보증
+nonrefundable, 환불 불가의
+voucher, 상품권 쿠폰
+departure, 출발
+indigenous, 토착의 원주민의
+intergenerational, 세대 간의
+transmission, 전달 전수
+biocultural, 생물문화적인
+fermented food, 발효 식품
+intervention, 개입 중재
+preservation, 보존
+persistence, 지속성
+asynchronous, 비동시성의
+ephemeral, 덧없는 순식간에 사라지는
+unprecedented, 전례 없는
+implications, 함의 영향
+expire, 만료되다
+spontaneous, 즉흥적인 자연발생적인
+manoeuvrability, 기동 능력
+predators, 포식자
+aerial locomotion, 공중 이동
+territorial expansion, 영역 확장
+hostile, 적대적인 열악한
+seasonal migration, 계절 이동
+abbreviation, 줄임말 약어
+transmit, 전달하다
+jealousy, 질투
+betrayal, 배신
+identifying, 동일시하다
+intense, 강렬한
+evolving, 진화하는
+demographic, 인구층
+broadcaster, 방송사
+distraction, 오락거리 주의 분산
+extract, 추출하다
+commonalities, 공통점
+groupings, 분류 그룹화
+merged, 합쳐진
+inborn, 타고난
+pitch space, 음고 공간
+cluster, 무리 덩어리
+distinct, 뚜렷이 구별되는
+errand, 볼일 심부름
+commute, 통근
+inexpensive, 저렴한
+fragile, 취약한 깨지기 쉬운
+insomnia, 불면증
+fragmentation, 분절 파편화
+subjective, 주관적인
+undisturbed, 방해받지 않은
+perceive, 인식하다
+adequate, 충분한 적절한
+paradox, 역설
+sustainability, 지속 가능성
+espouse, 지지하다 옹호하다
+deplete, 고갈시키다
+greenwash, 위장 환경주의
+trade-off, 균형 절충
+unsustainable, 지속 불가능한
+occupational burnout, 직업적 소진
+prolonged, 장기적인 오래 지속된
+chronic strain, 만성적 부담
+overtraining syndrome, 과훈련 증후군
+underrecovery, 불충분한 회복
+intensification, 강화 심화
